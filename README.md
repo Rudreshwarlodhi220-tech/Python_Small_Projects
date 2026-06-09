@@ -27,9 +27,6 @@ This repository contains a collection of my data analysis projects, where I have
    
    ```
  4. Open the .ipynb files in the respective project folders to view the analysis and code.
-*Created by Harsh*
-### एक छोटा सुझाव:
-अपनी रिपोजिटरी में फाइलों को व्यवस्थित करने के लिए, सुनिश्चित करें कि आपका फोल्डर स्ट्रक्चर ऐसा दिखे:
 ```text
 my-repo/
 ├── Netflix/
